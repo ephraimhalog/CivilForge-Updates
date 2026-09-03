@@ -1,5 +1,5 @@
 {
-  "version": "1.1.2",
-  "downloadUrl": "https://github.com/ephraimhalog/CivilForge-Updates/releases/download/v1.1.2/CivilForge.Installer-v1.1.2.zip",
-  "releaseNotes": "CivilForge v1.1.2: Dynamic version display, improved online updater reliability, centralized versioning, and stability improvements."
+  "version": "1.1.3",
+  "downloadUrl": "https://github.com/ephraimhalog/CivilForge-Updates/releases/download/v1.1.3/CivilForge.Installer-v1.1.3.zip",
+  "releaseNotes": "CivilForge v1.1.3: Improved Valley Gutter and Curb & Gutter classification, corrected missing and misclassified C&G 2.17 FT segments, improved Site Plan QTO preview accuracy, and reorganized the Utilities QTO interface with separate estimating parameters and FG surface selection."
 }
